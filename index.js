@@ -1,12 +1,7 @@
-function trackMouse(event) {
-  document.documentElement.style.setProperty(
-    '--cursorXPos',
-    `${event.clientX}px`
-  )
-  document.documentElement.style.setProperty(
-    '--cursorYPos',
-    `${event.clientY}px`
-  )
-}
-​
-document.addEventListener('mousemove', trackMouse)
+const cursor = document.getElementById("cursor");
+const element = document.getElementById("sample-text");
+
+document.addEventListener('mousemove', e => {
+  cursor.style.top = e.pageY + "px";
+  cursor.style.left = e.pageX + "px";
+});
