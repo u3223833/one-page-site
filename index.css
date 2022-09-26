@@ -1,3 +1,4 @@
+
 main {
 		
  		background: rgb(0, 0, 0)
@@ -12,6 +13,7 @@ h1 {
 	color:rgb(255, 255, 255); 
 	font-size:30px;
 	font-style: bold;
+  	font-family: courier;
 	font-weight:normal;
 	margin:1px;
 	overflow:visible;
@@ -20,6 +22,19 @@ h1 {
 	
 }
 	
+p { 
+	color:rgb(255, 255, 255); 
+	font-size:30px;
+	font-style: bold;
+  	font-family: courier;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 2;
+	
+}
+
 /* Flashlight Overlay */
 :root {
   cursor: none;
