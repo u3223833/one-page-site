@@ -1,10 +1,4 @@
 
-body {
-	background:rgb(0,0,0);
-
-}
-main {
-	background:rgb(0,0,0);
 
 }
 
@@ -46,5 +40,14 @@ p {
 	overflow:visible;
 	padding:1px;
 	line-height: 2;
+}
+
+
+body {
+	background:rgb(0,0,0);
+
+}
+main {
+	background:rgb(0,0,0);
 }
 
