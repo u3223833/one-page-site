@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	text-size: 20px;
+	text-size: 30px;
 	text-color: rgb(255,255,255)
 	text-align: centre;
 
@@ -53,7 +53,7 @@ p {
 }
 
 .header {
-  background-color: rbg (0,0,0);
+
   text-align: center;
   padding: 20px;
   text-size: 30px;
