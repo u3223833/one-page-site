@@ -15,6 +15,10 @@ body {
 
 }
 
+text-color{
+	rbg(0,0,0)
+}
+
 main {
 	background-color: #000000;
 }
