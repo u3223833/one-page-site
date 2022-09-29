@@ -9,7 +9,7 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 	text-size: 10px;
-	text-colout: rgb(255,255,255)
+	text-colour: rgb(255,255,255)
 	text-align: centre;
 
 }
@@ -18,7 +18,7 @@ body {
 
 h1 {
 	text-align:center;
-	color:rgb(255,255,255); 
+	font-color:rgb(255,255,255); 
 	font-size:10px;
 	font-style: bold;
   	font-family: courier;
@@ -34,7 +34,7 @@ h1 {
 	
 p {
 	text-align:center;
-	color:rgb(255,255,255); 
+	font-color:rgb(255,255,255); 
 	font-size:10px;
 	font-style: bold;
   	font-family: courier;
