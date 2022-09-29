@@ -5,7 +5,8 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	text-size: 10px
+	text-size: 10px;
+	text-align: centre;
 }
 
 section {
@@ -17,8 +18,8 @@ section {
 }
 
 .container{
-scroll-snap-type: x mandatory;
-overflow-x: scroll;
+scroll-snap-type: y mandatory;
+overflow-y: scroll;
 height: 100vh;
 }
 
