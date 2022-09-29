@@ -10,6 +10,27 @@ body {
 	box-sizing: border-box;
 	text-size: 50px;
 	text-align: centre;
+
+}
+
+.column {
+  float: left;
+}
+
+/* Left and right column */
+.column.side {
+  width: 25%;
+}
+
+/* Middle column */
+.column.middle {
+  width: 50%;
+}
+
+.header {
+  background-color: rbg (0,0,0);
+  text-align: center;
+  padding: 20px;
 }
 
 section {
