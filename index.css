@@ -28,7 +28,7 @@ h1 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
-	font-size:20px;
+	font-size:30px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -42,7 +42,7 @@ h2 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
-	font-size:20px;
+	font-size:30px;
 	font-style: bold;
   	font-family:"Lucida Handwriting", Cursive;;
 	font-weight:normal;
@@ -57,14 +57,14 @@ h2 {
 p {
 	text-align:center;
 	color:#ffffff; 
-	font-size:20px;
+	font-size:15px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
 	margin: 10px;
 	padding: 10px;
 	overflow:visible;
-	line-height: 2;
+	line-height: 1;
 }
 
 
@@ -72,7 +72,7 @@ p {
 
   text-align: center;
   padding: 1px;
-  text-size: 30px;
+  text-size: 40px;
  color: #ffffff;
   font-weight: normal;
 }
