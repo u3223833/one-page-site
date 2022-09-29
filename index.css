@@ -8,11 +8,41 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	text-size: 15px;
+	text-size: 10px;
 	text-align: centre;
 
 }
 
+
+
+h1 {
+	text-align:center;
+	color:rgb(255,255,255); 
+	font-size:10px;
+	font-style: bold;
+  	font-family: courier;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 2;
+	
+}
+
+
+	
+p {
+	text-align:center;
+	color:rgb(255,255,255); 
+	font-size:10px;
+	font-style: bold;
+  	font-family: courier;
+	font-weight:normal;
+	margin:1px;
+	overflow:visible;
+	padding:1px;
+	line-height: 2;
+}
 
 .header {
   background-color: rbg (0,0,0);
@@ -52,36 +82,6 @@ height: 100vh;
 
 
 
-
-
-h1 {
-	text-align:center;
-	color:rgb(255,255,255); 
-	font-size:15px;
-	font-style: bold;
-  	font-family: courier;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 2;
-	
-}
-
-
-	
-p {
-	text-align:center;
-	color:rgb(255,255,255); 
-	font-size:15px;
-	font-style: bold;
-  	font-family: courier;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 2;
-}
 
 
 
