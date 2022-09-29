@@ -5,7 +5,7 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	text-size: 20px;
+	text-size: 50px;
 	text-align: centre;
 }
 
@@ -46,7 +46,7 @@ height: 100vh;
 h1 {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:30px;
+	font-size:50px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -62,7 +62,7 @@ h1 {
 p {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:20px;
+	font-size:50px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
