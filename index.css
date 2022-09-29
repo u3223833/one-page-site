@@ -41,7 +41,7 @@ h2 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
-	font-size:15px;
+	font-size:11px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -55,7 +55,7 @@ h3 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
-	font-size:15px;
+	font-size:11px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -97,7 +97,7 @@ p2 {
 
   text-align: center;
   padding: 20px;
-  text-size: 30px;
+  text-size: 15px;
  color: #ffffff;
   font-weight: normal;
 }
