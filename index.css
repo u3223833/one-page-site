@@ -25,7 +25,7 @@ h1 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	font-color:rgb(255,255,255); 
-	font-size:10px;
+	font-size:30px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -56,7 +56,6 @@ p {
   background-color: rbg (0,0,0);
   text-align: center;
   padding: 20px;
-font-family: "Lucida Handwriting", Cursive;
   text-size: 30px;
   text-color: rgb(204, 0, 0);
   font-weight: normal;
