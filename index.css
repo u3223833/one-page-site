@@ -12,6 +12,9 @@ body {
 	font-size: 10px;
 	color: #ffffff;
 	text-align: centre;
+	border-style: solid;
+	border-width: 10px;
+	border-color: #ffffff;
 
 }
 
