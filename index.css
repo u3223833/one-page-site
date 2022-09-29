@@ -12,6 +12,13 @@ section {
 	display: flex;
 	justify-conent: centre;
 	align-items: centre;
+	scroll-snap-align: start;
+}
+
+.container{
+scroll-snap-type: y mandatory;
+overflow-y: scroll;
+height: 100vh;
 }
 
 .one {
@@ -29,6 +36,10 @@ section {
 .five {
 	background: rbg((179, 0, 0))
 }
+
+
+
+
 
 h1 {
 	text-align:center;
