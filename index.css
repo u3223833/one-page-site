@@ -6,8 +6,8 @@
 
 body {
 	background-color: #000000;
-	margin: 15px;
-	padding: 1px;
+	margin: 5px;
+	padding: 15px;
 	box-sizing: border-box;
 	font-size: 10px;
 	color: #ffffff;
@@ -31,9 +31,9 @@ h1 {
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:5px;
 	line-height: 2;
 	
 }
@@ -45,9 +45,9 @@ h2 {
 	font-style: bold;
   	font-family:"Lucida Handwriting", Cursive;;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:5px;
 	line-height: 2;
 	
 }
@@ -59,9 +59,9 @@ h3 {
 	font-style: bold;
   	font-family: "Lucida Handwriting", Cursive;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:5px;
 	line-height: 2;
 	
 }
@@ -73,9 +73,9 @@ p1{
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p2 {
@@ -85,9 +85,9 @@ p2 {
 	font-size:10px;
 	font-style: bold;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p3 {
@@ -97,9 +97,9 @@ p3 {
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p4 {
@@ -110,9 +110,9 @@ p4 {
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p5{
@@ -123,9 +123,9 @@ p5{
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p6{
@@ -136,9 +136,9 @@ p6{
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p7 {
@@ -149,9 +149,9 @@ p7 {
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 p8{
@@ -162,9 +162,9 @@ p8{
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
-	margin:15px;
+	margin: 5px;
+	padding: 15px;
 	overflow:visible;
-	padding:1px;
 	line-height: 2;
 }
 
