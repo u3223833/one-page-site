@@ -44,7 +44,7 @@ height: 100vh;
 h1 {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:30px;
+	font-size:15px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -56,24 +56,11 @@ h1 {
 }
 
 
-
-h2 {
-	text-align:center;
-	color:rgb(0,0,0); 
-	font-size:30px;
-	font-style: bold;
-  	font-family: courier;
-	font-weight:normal;
-	margin:1px;
-	overflow:visible;
-	padding:1px;
-	line-height: 2;
-}
 	
 p {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:30px;
+	font-size:15px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
