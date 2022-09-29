@@ -1,6 +1,34 @@
 
 	
 
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+section {
+	height: 100vh;
+	display: flex;
+	justify-conent: centre;
+	align-items: centre;
+}
+
+.one {
+	background: rbg((179, 0, 0))
+}
+.two {
+	background: rbg(0, 0, 0)
+}
+.three {
+	background: rbg((179, 0, 0))
+}
+.four {
+	background: rbg(0, 0, 0)
+}
+.five {
+	background: rbg((179, 0, 0))
+}
 
 h1 {
 	text-align:center;
