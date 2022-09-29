@@ -23,13 +23,25 @@ main {
 }
 
 
-
+h{
+	text-align:center;
+	text-shadow: 2px 2px red;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: italic, bold;
+  	font-family:courier;
+	font-weight:normal;
+	margin: 1px;
+	padding: 1px;
+	overflow:visible;
+	line-height: 2;
+	
 h1 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
 	font-size:30px;
-	font-style: bold;
+	font-style: italic, bold;
   	font-family:"Lucida Handwriting", Cursive;
 	font-weight:normal;
 	margin: 1px;
@@ -43,7 +55,7 @@ h2 {
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
 	font-size:20px;
-	font-style: bold;
+	font-style: italic;
   	font-family:"Lucida Handwriting", Cursive;
 	font-weight:normal;
 	margin: 1px;
