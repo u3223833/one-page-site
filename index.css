@@ -5,6 +5,7 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	text-size: 10px
 }
 
 section {
@@ -36,9 +37,7 @@ height: 100vh;
 .five {
 	background: rbg((179, 0, 0))
 }
-.six {
-	background: rbg(0, 0, 0)
-}
+
 
 
 
@@ -46,7 +45,7 @@ height: 100vh;
 h1 {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:10px;
+	font-size:5px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -62,7 +61,7 @@ h1 {
 p {
 	text-align:center;
 	color:rgb(0,0,0); 
-	font-size:10px;
+	font-size:5px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
