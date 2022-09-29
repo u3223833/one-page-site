@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	text-size: 30px;
+	text-size: 15px;
 	color: #ffffff;
 	text-align: centre;
 
@@ -27,7 +27,7 @@ h1 {
 	text-align:center;
 	text-shadow: 2px 2px red;
 	color:#ffffff; 
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -44,7 +44,7 @@ p {
 	text-align:center;
 	color:#ffffff; 
 	font-family: "Lucida Handwriting", Cursive;
-	font-size:20px;
+	font-size:15px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
@@ -57,7 +57,7 @@ p2 {
 	text-align:center;
 	color:#ffffff; 
 	font-family: "Lucida Handwriting", Cursive;
-	font-size:20px;
+	font-size:15px;
 	font-style: bold;
   	font-family: courier;
 	font-weight:normal;
