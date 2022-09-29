@@ -9,10 +9,13 @@ body {
 	padding: 0;
 	background-color: rgb(0,0,0)
 	box-sizing: border-box;
-	text-size: 10px;
+	text-size: 20px;
 	text-color: rgb(255,255,255)
 	text-align: centre;
 
+}
+main {
+	background-color: rgb (0,0,0);
 }
 
 
@@ -50,6 +53,9 @@ p {
   background-color: rbg (0,0,0);
   text-align: center;
   padding: 20px;
+  text-size: 30px;
+  text-color: rgb(204, 0, 0);
+  font-weight: 100;
 }
 
 section {
