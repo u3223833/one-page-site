@@ -18,26 +18,34 @@ body {
 
 
 
+h1 {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 50%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */	
+text-shadow: 2px 2px red;	
+color:#ffffff; 
+font-size:30px;
+font-style: italic, bold;
+ font-family:"Lucida Handwriting", Cursive;
+font-weight:normal;
+padding: 1px;
+overflow:visible;
+line-height: 2;
+	
+}
+
+
+
 main {
 	background-color: #000000;
 }
 
 
 	
-h1 {
-	text-align:center;
-	text-shadow: 2px 2px red;
-	color:#ffffff; 
-	font-size:30px;
-	font-style: italic, bold;
-  	font-family:"Lucida Handwriting", Cursive;
-	font-weight:normal;
-	margin: 1px;
-	padding: 1px;
-	overflow:visible;
-	line-height: 2;
-	
-}
+
 h2 {
 	text-align:center;
 	color:#ffffff; 
