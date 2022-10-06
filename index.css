@@ -57,7 +57,19 @@ h2 {
 	line-height: 2;
 	
 }
-
+h3 {
+	text-align:center;
+	color:#ffffff; 
+	font-size:10px;
+	font-style: bold;
+  	font-family:courier;;
+	font-weight:normal;
+	margin: 1px;
+	padding: 1px;
+	overflow:visible;
+	line-height: 2;
+	
+}
 
 
 p {
