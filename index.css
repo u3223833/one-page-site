@@ -5,10 +5,6 @@
 }
 
 body {
-background-image: 'img1.jpeg';
-background-repeat: no-repeat;
-background-attachment: fixed; 
-background-size: cover;
 background-color: #000000;
 margin: 10px;
 padding: 1px;
@@ -20,11 +16,7 @@ text-align: centre;
 }
 
 main {
-	background-color: #000000;
-	background-image: 'img1.jpeg';
-background-repeat: no-repeat;
-background-attachment: fixed; 
-background-size: cover;
+	
 background-color: #000000;
 margin: 10px;
 padding: 1px;
