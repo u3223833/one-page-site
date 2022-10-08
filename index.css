@@ -45,9 +45,6 @@ animation: .8s shake infinite alternate;
   20% { transform: skewX(0deg); }
   100% { transform: skewX(0deg); }  
 }
-
-
-
 	
 
 h2 {	
@@ -68,7 +65,7 @@ text-align:center;
 color:#ffffff; 
 font-size:20px;
 font-style: bold;
-font-family:courier;
+font-family:Nosifer;
 font-weight:normal;
 margin: 1px;
 padding: 1px;
