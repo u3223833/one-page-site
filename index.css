@@ -12,7 +12,6 @@ box-sizing: border-box;
 font-size: 10px;
 color: #ffffff;
 text-align: centre;
-
 }
 
 main {
@@ -23,20 +22,18 @@ box-sizing: border-box;
 font-size: 10px;
 color: #ffffff;
 text-align: centre;
-
 }
 
 .header {
 font-family: Creepster;
- text-align: center;
-  padding: 1px;
-  text-size: 40px;
- color: #ffffff;
-  font-weight: normal;
+text-align: center;
+padding: 1px;
+text-size: 40px;
+color: #ffffff;
+font-weight: normal;
 }	
 
-h1 {
-	
+h1 {	
 font-family:Creepster;
 text-align: center;
 margin: 0; 
@@ -46,51 +43,45 @@ font-size:30px;
 font-weight:normal;
 padding: 1px;
 overflow:visible;
-line-height: 2;
-	
+line-height: 2;	
 }
 
 h2 {
-	
-	text-align:center;
-	color:#ffffff; 
-	font-size:20px;
-	font-style: bold;
-  	font-family:courier;
-	font-weight:normal;
-	margin: 1px;
-	padding: 1px;
-	overflow:visible;
-	line-height: 2;
-	
+text-align:center;
+color:#ffffff; 
+font-size:20px;
+font-style: bold;
+font-family:courier;
+font-weight:normal;
+margin: 1px;
+padding: 1px;
+overflow:visible;
+line-height: 2;	
 }
-
-
 
 p {
-	text-align:justify;
-	color:#ffffff; 
-	font-size:15px;
-	font-style: bold;
-  	font-family: courier;
-	font-weight:normal;
-	margin: 10px;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
+text-align:justify;
+color:#ffffff; 
+font-size:15px;
+font-style: bold;
+font-family: courier;
+font-weight:normal;
+margin: 10px;
+padding: 10px;
+overflow:visible;
+line-height: 1;
 }
-
 
 
 section {
-	height: 100vh;
-	display: flex;
-	justify-conent: centre;
-	align-items: centre;
-	scroll-snap-align: start;
+height: 100vh;
+display: flex;
+justify-conent: centre;
+align-items: centre;
+scroll-snap-align: start;
 }
 
-.container{
+.container {
 scroll-snap-type: y mandatory;
 overflow-y: scroll;
 height: 100vh;
