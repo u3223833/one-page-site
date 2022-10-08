@@ -24,7 +24,7 @@ color: #ffffff;
 text-align: centre;
 }
 
-title {
+h1 {
 font-family: Creepster;
 text-align: center;
 padding: 1px;
@@ -47,7 +47,7 @@ animation: .8s shake infinite alternate;
 
 	
 
-h1 {	
+h2 {	
 font-family:Creepster;
 text-align: center;
 margin: 0; 
@@ -60,7 +60,7 @@ overflow:visible;
 line-height: 2;	
 }
 
-h2 {
+h3 {
 text-align:center;
 color:#ffffff; 
 font-size:20px;
