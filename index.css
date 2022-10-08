@@ -24,7 +24,7 @@ color: #ffffff;
 text-align: centre;
 }
 
-.header {
+title {
 font-family: Creepster;
 text-align: center;
 padding: 1px;
@@ -45,7 +45,7 @@ animation: .8s shake infinite alternate;
 
 
 
-}	
+	
 
 h1 {	
 font-family:Creepster;
