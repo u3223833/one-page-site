@@ -32,7 +32,7 @@ font-family: Creepster;
 text-align: center;
 padding: 1px;
 margin: 1px;
-text-size: 200px;
+font-size: 100px;
 text-shadow: 3px 3px red;	
 color: #ffffff;
 font-weight: normal;
@@ -73,7 +73,7 @@ animation: .8s shake infinite alternate;
 
 h3 {
 text-align:center;
-color:#ffffff; 
+color:#cc0000; 
 font-size:20px;
 font-style: bold;
 font-family:Nosifer;
@@ -99,7 +99,7 @@ line-height: 1;
 p {
 text-align:justify;
 color:#ffffff; 
-font-size:20px;
+font-size:30px;
 font-style: bold;
 font-family: Jolly Lodger;
 font-weight:normal;
