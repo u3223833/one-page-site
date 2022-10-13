@@ -17,10 +17,17 @@ title {
 
 h1 {
 font-family: Creepster;
-text-align: center;
+		left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+
 padding: 1px;
 margin: 0;
-position: absolute;
+
 font-size: 100px;
 text-shadow: 3px 3px red;	
 color: #ffffff;
@@ -40,18 +47,13 @@ animation: .8s shake infinite alternate;
 
 h2 {	
 font-family:Creepster;
-	left: 0;
-    line-height: 200px;
-    margin-top: -100px;
-    position: absolute;
-    text-align: center;
-    top: 50%;
-    width: 100%;
+text-align: center;
 text-shadow: 3px 3px red;	
 color:#ffffff; 
 font-size:50px;
 font-weight:normal;
 padding: 1px;
+margin: 1px;
 animation: .8s shake infinite alternate;
 }
 
