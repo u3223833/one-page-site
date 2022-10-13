@@ -97,30 +97,6 @@ overflow:visible;
 line-height: 1;
 }
 
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: center;
-}
-
-div.c {
-  text-align: center;
-} 
-
-div.d {
-  text-align: right;
-	
-div.e {
-  text-align: center;
-}
-
-div.f {
-  text-align: center;
-}
-
-
 
 section {
 height: 100vh;
