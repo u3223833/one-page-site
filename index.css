@@ -144,7 +144,7 @@ height: 100vh;
 }
 
 .column {
-  float: left;
+  float: center;
   width: 40%;
   padding: 5px;
 }
