@@ -1,5 +1,6 @@
 /* typing effect for opening paragraph */
-
+<script>
+  
 var i = 0;
 var txt = 'Whether you’re a believer, a skeptic, or flat-out think they’re a myth, ghost stories and "sightings" have perpetuated popular culture for millennia, and some of them are downright spooky. 
 Many people who are interested in paranormal – or just plain creepy experiences – will usually venture out of their way to find places that are haunted. Canberra, however, has a rich hidden history, and with that comes the paranormal. 
@@ -15,3 +16,4 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
   }
 }
+</script>
