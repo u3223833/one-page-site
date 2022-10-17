@@ -13,7 +13,7 @@ var speed = 100;
 We also attach the built in substring(0, textPosition) function to the array.*/
 
 typewriter = () => {
-  document.querySelector("#message").innerHTML = quoteArray[0].substring(0, textPosition) + '<span>\u25AE</span>';
+  document.querySelector("message").innerHTML = quoteArray[0].substring(0, textPosition) + '<span>\u25AE</span>';
 
   if(textPosition++ != quoteArray[0].length)
     setTimeout(typewriter, speed);
