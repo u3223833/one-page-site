@@ -161,15 +161,69 @@ img {
   filter: grayscale(100%);
 }
 
-/* blinker effect */
-span{
-  animation: blinker 1s linear infinite;
+/* type writter text effect - 
+Different animations had to be implented for each <p> element to ensure that the type texting effect occurred line by line */
+
+p:nth-child(2){
+  animation: type2 8s steps(60, end);
 }
 
-@keyframes blinker{
-  50%{
-    opacity: 0;
-  }
+p:nth-child(3){
+  animation: type3 11s steps(60, end);
 }
+
+p:nth-child(4){
+  animation: type4 14s steps(60, end);
+}
+
+p:nth-child(5){
+  animation: type5 20s steps(60, end);
+}
+
+
+span a{
+  animation: blink 1s infinite;
+} 
+
+@keyframes type{ 
+  from { width: 0;} 
+} 
+
+@keyframes type2{
+  0%{width: 0;}
+  50%{width: 0;}
+  100%{width: 100;} 
+}
+
+@keyframes type3{
+  0%{width: 0;}
+  25%{width: 0;}
+  50%{width: 0;}
+  75%{width: 0;}
+  100%{width: 100;} 
+}
+
+@keyframes type4{
+  0%{width: 0;}
+  20%{width: 0;}
+  40%{width: 0;}
+  60%{width: 0;}
+  80%{width: 0;}
+  100%{width: 100;} 
+}
+
+@keyframes type5{
+  0%{width: 0;}
+  25%{width: 0;}
+  50%{width: 0;}
+  75%{width: 0;}
+  100%{width: 100;} 
+}
+
+@keyframes blink{
+  to{opacity: .0;}
+}
+
+
 
 
