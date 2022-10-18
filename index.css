@@ -194,9 +194,9 @@ wrapper {
 font-family:'Special Elite', cursive;
   color:#ffffff; 
   width: 10ch;
-  animation: typing 2s steps(100), blink .5s step-end infinite alternate;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
-  border-right: 500px solid;
+  border-right: 50px solid;
   font-size: 20px;
 
 	
