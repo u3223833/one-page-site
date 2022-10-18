@@ -190,6 +190,7 @@ wrapper {
 }
 
 .typing-demo {
+  color:#ffffff; 
   width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
@@ -197,7 +198,7 @@ wrapper {
   border-right: 3px solid;
  'Special Elite', cursive;
   font-size: 20px;
-  color:#ffffff; 
+
 	
 }
 
