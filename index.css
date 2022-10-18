@@ -74,8 +74,9 @@ line-height: 1;
 
 p1 {
 text-align:justify;
+padding-top: 2em;
 color:#ffffff;  
-font-size:30px;
+font-size:20px;
 font-style: bold;
 font-family: 'Special Elite', cursive;
 font-weight:normal;
