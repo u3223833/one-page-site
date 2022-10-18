@@ -155,6 +155,7 @@ height: 100vh;
 img {
 filter: grayscale(100%);
 border-radius: 8px;
+margin: auto 7px;
 }
 
 
@@ -162,6 +163,7 @@ border-radius: 8px;
 .container img {
     width: 50%;
     height: auto;
+margin: auto 7px;
 }
 
 /* Three image containers */
