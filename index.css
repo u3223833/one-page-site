@@ -76,7 +76,7 @@ p1 {
 text-align:justify;
 padding-top: 2em;
 color:#ffffff;  
-font-size:20px;
+font-size:30px;
 font-style: bold;
 font-family: 'Special Elite', cursive;
 font-weight:normal;
@@ -193,12 +193,12 @@ wrapper {
 .typing-demo {
 font-family:'Special Elite', cursive;
   color:#ffffff; 
-  width: 30ch;
+  width: 10ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
   overflow: hidden;
-  border-right: 100px solid;
-  font-size: 20px;
+  border-right: 300px solid;
+  font-size: 30px;
 
 	
 }
