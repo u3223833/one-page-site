@@ -193,10 +193,10 @@ wrapper {
 .typing-demo {
 font-family:'Special Elite', cursive;
   color:#ffffff; 
-  width: 5ch;
+  width: 2ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
-  border-right: 50px solid;
+  border-right: 10px solid;
   font-size: 20px;
 
 	
