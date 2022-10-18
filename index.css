@@ -190,16 +190,16 @@ wrapper {
   place-items: center;
 }
 
+
 .typing-demo {
-font-family:'Special Elite', cursive;
-  color:#ffffff; 
-  width: 2ch;
+  width: 22ch;
   animation: typing 2s steps(22), blink .5s step-end infinite alternate;
   white-space: nowrap;
-  border-right: 10px solid;
-  font-size: 20px;
-
-	
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family:'Special Elite', cursive;
+  color:#ffffff; 
+  font-size: 2em;
 }
 
 @keyframes typing {
