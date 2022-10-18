@@ -197,6 +197,7 @@ wrapper {
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
+text-align: center;
   font-family:'Special Elite', cursive;
   color:#ffffff; 
   font-size: 2em;
