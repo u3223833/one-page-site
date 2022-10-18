@@ -195,8 +195,10 @@ wrapper {
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
-  font-family: monospace;
-  font-size: 2em;
+ 'Special Elite', cursive;
+  font-size: 20px;
+  color:#ffffff; 
+	
 }
 
 @keyframes typing {
