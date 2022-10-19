@@ -151,8 +151,83 @@ p {
 	overflow:visible;
 	line-height: 1;
 }
-
-
+p1 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p2 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p3 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p4 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p5 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p6 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+p7 {
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
 .column {
   float: left;
   width: 33.3%;
