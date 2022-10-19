@@ -6,28 +6,32 @@
 
 
 body {
-background: #000000;
+	background: #000000;
+	margin: 80px 200px;
 }
 
 main {
 	background: #000000;
+	margin: 80px 200px;
 }
 
 title {
 }
 
 h1 {
-font-family: Creepster;
-position: center;
-text-align: center;
-padding: 1px;
-margin: 0;
-font-size: 100px;
-text-shadow: 3px 3px red;	
-color: #ffffff;
-font-weight: normal;
-animation: .8s shake infinite alternate;
+	font-family: Creepster;
+	position: center;
+	text-align: center;
+	padding: 1px;
+	margin: 0;
+	font-size: 100px;
+	text-shadow: 3px 3px red;	
+	color: #ffffff;
+	font-weight: normal;
+	animation: .8s shake infinite alternate;
 }
+
+//shaking text effect
 
 @keyframes shake {
   0% { transform: skewX(-15deg); }
@@ -40,16 +44,18 @@ animation: .8s shake infinite alternate;
 	
 
 h2 {	
-font-family:Creepster;
-text-align: center;
-text-shadow: 3px 3px red;	
-color:#ffffff; 
-font-size:50px;
-font-weight:normal;
-padding: 1px;
-margin: 1px;
-animation: .8s shake infinite alternate;
+	font-family:Creepster;
+	text-align: center;
+	text-shadow: 3px 3px red;	
+	color:#ffffff; 
+	font-size:50px;
+	font-weight:normal;
+	padding: 1px;
+	margin: 1px;
+	animation: .8s shake infinite alternate;
 }
+
+//shaking text effect
 
 @keyframes shake {
   0% { transform: skewX(-15deg); }
@@ -61,51 +67,52 @@ animation: .8s shake infinite alternate;
 }
 
 h3 {
-text-align:center;
-color:#cc0000; 
-font-size:35px;
-font-style: bold;
-font-family:Nosifer;
-font-weight:normal;
-margin: 1px;
-padding: 1px;
-line-height: 1;	
+	text-align:center;
+	color:#cc0000; 
+	font-size:35px;
+	font-style: bold;
+	font-family:Nosifer;
+	font-weight:normal;
+	margin: 1px;
+	padding: 1px;
+	line-height: 1;	
 }
 
 p1 {
-text-align:justify;
-padding-top: 2em;
-color:#ffffff;  
-font-size:20px;
-font-style: bold;
-font-family: 'Special Elite', cursive;
-font-weight:normal;
-margin: 10;
-padding: 10px;
-overflow:visible;
-line-height: 1;
+	text-align:justify;
+	padding-top: 2em;
+	color:#ffffff;  
+	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+	font-weight:normal;
+	margin: 10;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
 }
 
 p {
-text-align:justify;
-color:#ffffff; 
-font-size:30px;
-font-style: bold;
-font-family: Jolly Lodger;
-font-weight:normal;
-margin: 10px;
-padding: 10px;
-overflow:visible;
-line-height: 1;
+	text-align:justify;
+	color:#ffffff; 
+	font-size:30px;
+	font-style: bold;
+	font-family: Jolly Lodger;
+	font-weight:normal;
+	margin: 10px;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
 }
 
+//scroll effect
 
 section {
-height: 100vh;
-display: flex;
-justify-conent: centre;
-align-items: centre;
-scroll-snap-align: start;
+	height: 100vh;
+	display: flex;
+	justify-conent: centre;
+	align-items: centre;
+	scroll-snap-align: start;
 }
 
 
@@ -113,6 +120,7 @@ scroll-snap-align: start;
 scroll-snap-type: y mandatory;
 overflow-y: scroll;
 height: 100vh;
+	
 }
 
 .one {
@@ -161,28 +169,30 @@ display:flex;
 align-items:center
 }
 
+//image style and gallery
 
-/* Resize images */
+//Resize images 
 .container img {
  width: 80%;
  height: auto;
 }
 
-/* Three image containers */
+//Three image containers 
 .column {
   float: left;
   width: 33.33%;
   padding: 5px;
 }
 
-/* Clear floats after image containers */
+//Clear floats after image containers 
 .row::after {
   content: "";
   clear: both;
   display: table;
 }
 
-/*type writter effect*/
+//type writter effect
+
 wrapper {
   height: 100vh;
   /*This part is important for centering*/
