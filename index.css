@@ -18,7 +18,6 @@ title {
 
 h1 {
 font-family: Creepster;
-border-bottom: 5px solid red;
 position: center;
 text-align: center;
 padding: 1px;
@@ -42,7 +41,6 @@ animation: .8s shake infinite alternate;
 
 h2 {	
 font-family:Creepster;
-border-bottom: 5px solid red;
 text-align: center;
 text-shadow: 3px 3px red;	
 color:#ffffff; 
