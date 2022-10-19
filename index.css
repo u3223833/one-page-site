@@ -1,5 +1,54 @@
 
-	div.static {
+	
+//scroll effect
+
+section {
+	height: 100vh;
+	display: flex;
+	justify-conent: centre;
+	align-items: centre;
+	scroll-snap-align: start;
+}
+
+
+.container {
+scroll-snap-type: y mandatory;
+overflow-y: scroll;
+height: 100vh;
+	
+}
+
+.one {
+	background: rbg(0,0,0)
+}
+.two {
+	background: rbg(0,0,0)
+}
+.three {
+	background: rbg(0,0,0)
+}
+.four {
+	background: rbg(0,0,0)
+}
+.five {
+	background: rbg(0,0,0)
+}
+
+.six {
+	background: rbg(0,0,0)
+}
+.seven {
+	background: rbg(0,0,0)
+}
+
+.eight {
+	background: rbg(0,0,0)
+}
+.nine {
+	background: rbg(0,0,0)
+}
+
+div.static {
   position: static;
   border: 3px solid #73AD21;
 }
@@ -106,53 +155,6 @@ p {
 	line-height: 1;
 }
 
-//scroll effect
-
-section {
-	height: 100vh;
-	display: flex;
-	justify-conent: centre;
-	align-items: centre;
-	scroll-snap-align: start;
-}
-
-
-.container {
-scroll-snap-type: y mandatory;
-overflow-y: scroll;
-height: 100vh;
-	
-}
-
-.one {
-	background: rbg(0,0,0)
-}
-.two {
-	background: rbg(0,0,0)
-}
-.three {
-	background: rbg(0,0,0)
-}
-.four {
-	background: rbg(0,0,0)
-}
-.five {
-	background: rbg(0,0,0)
-}
-
-.six {
-	background: rbg(0,0,0)
-}
-.seven {
-	background: rbg(0,0,0)
-}
-
-.eight {
-	background: rbg(0,0,0)
-}
-.nine {
-	background: rbg(0,0,0)
-}
 
 .column {
   float: left;
