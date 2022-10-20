@@ -5,8 +5,8 @@
 section {
 	height: 100vh;
 	display: flex;
-	justify-conent: centre;
-	align-items: centre;
+	justify-conent: center;
+	align-items: center;
 	scroll-snap-align: start;
 }
 
@@ -62,9 +62,6 @@ body {
 main {
 	background: #000000;
 	
-}
-
-title {
 }
 
 
@@ -136,7 +133,7 @@ h3 {
 
 
 p1 {
-	text-align:justify;
+	text-align:center;
 	padding-top: 2em;
 	color: #ffffff;  
 	font-size:20px;
@@ -147,7 +144,7 @@ p1 {
   	border: 5px solid black;
  	 margin:100px;
 	overflow:visible;
-	line-height: 1;
+	line-height: 3;
 }
 
 
@@ -172,7 +169,6 @@ p {
 
 p2 {
 	text-align:center;
-	padding-top: 2em;
 	color: #ffffff;  
 	font-size:25px;
 	font-style: bold;
@@ -183,11 +179,7 @@ p2 {
 	line-height: 1;
 }
 
-.column {
-  float: left;
-  width: 33.3%;
-  padding: 5px;
-}
+
 
 
 
