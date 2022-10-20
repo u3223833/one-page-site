@@ -154,10 +154,8 @@ p {
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
-	padding-left:25px;
- 	padding-right: 25px;
-  	padding-top: 15px;
-  	padding-bottom: 15px;
+	margin: 1px;
+	padding: 1px;
 	overflow:visible;
 	line-height: 1;
 	
