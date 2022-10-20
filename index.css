@@ -94,7 +94,7 @@ h1 {
 
 h2 {	
 	font-family:Creepster;
-	text-align: center;
+	text-align:left;
 	text-shadow: 3px 3px red;	
 	color:#ffffff; 
 	font-size:50px;
@@ -128,7 +128,7 @@ h3 {
 }
 
 p1 {
-	text-align:justify;
+	text-align:center,justify;
 	padding-top: 2em;
 	color:#ffffff;  
 	font-size:20px;
@@ -141,18 +141,18 @@ p1 {
 }
 
 p2 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	font-size:30px;
 	font-style: bold;
-	font-family: Jolly Lodger;
+	font-family: 'Special Elite', cursive;
 	font-weight:normal;
 	padding: 10px;
 	overflow:visible;
 	line-height: 1;
 }
 p3 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	font-size:30px;
 	font-style: bold;
@@ -163,7 +163,7 @@ p3 {
 	line-height: 1;
 }
 p4 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	font-size:30px;
 	font-style: bold;
@@ -174,7 +174,7 @@ p4 {
 	line-height: 1;
 }
 p5 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	float:left;
 	font-size:30px;
@@ -186,7 +186,7 @@ p5 {
 	line-height: 1;
 }
 p6 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	float:right;
 	font-size:30px;
@@ -198,7 +198,7 @@ p6 {
 	line-height: 1;
 }
 p7 {
-	text-align:justify;
+	text-align:center,justify;
 	color:#ffffff; 
 	float: left;
 	font-size:30px;
