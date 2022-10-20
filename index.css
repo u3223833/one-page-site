@@ -131,7 +131,7 @@ h3 {
 p1 {
 	text-align:center;
 	padding-top: 2em;
-	color:rgb(255, 255, 255);  
+	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
@@ -144,7 +144,7 @@ p1 {
 p {
 	text-align:center;
 	padding-top: 2em;
-	color:rgb(255, 255, 255);  
+	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
@@ -170,7 +170,7 @@ p {
   border-right: 3px solid;
   text-align: center;
   font-family:'Special Elite', cursive;
-  color:rgb(255, 255, 255); 
+  color: #ffffff; 
   font-size: 2em;
 }
 
