@@ -134,15 +134,13 @@ h3 {
 
 p1 {
 	text-align:center;
-	padding-top: 2em;
+	margin: 1px;
+	padding: 1px;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
-	 padding: 25px;
-  	border: 5px solid black;
- 	 margin:100px;
 	overflow:visible;
 	line-height: 3;
 }
@@ -156,10 +154,8 @@ p {
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
-	width: 500px;
-  	padding: 25px;
-  	border: 5px solid black;
- 	margin:100px;
+	margin: 1px;
+	padding: 1px;
 	overflow:visible;
 	line-height: 1;
 	
@@ -174,7 +170,8 @@ p2 {
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
-	padding: 10px;
+	margin: 1px;
+	padding: 1px;
 	overflow:visible;
 	line-height: 1;
 }
