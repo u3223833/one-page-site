@@ -124,7 +124,7 @@ h2 {
 h3 {
 	text-align:center;
 	color:#cc0000; 
-	font-size:30px;
+	font-size:40px;
 	font-style: bold;
 	font-family:'Eater', cursive;;
 	font-weight:normal;
@@ -160,6 +160,7 @@ p {
 	padding: 10px;
 	overflow:visible;
 	line-height: 1;
+	margin: 100px;
 }
 
 
