@@ -95,7 +95,8 @@ h1 {
 
 h2 {	
 	font-family:Creepster;
-	text-align:center;
+	position: center;
+	text-align: center;
 	text-shadow: 3px 3px red;	
 	color:#ffffff; 
 	font-size:70px;
@@ -119,7 +120,8 @@ h2 {
 
 
 h3 {
-	text-align:center;
+	position: center;
+	text-align: center;
 	color:#cc0000; 
 	font-size:40px;
 	font-style: bold;
@@ -133,7 +135,8 @@ h3 {
 
 
 p1 {
-	text-align:center;
+	position: center;
+	text-align: center;
 	margin: 1px;
 	padding: 1px;
 	color: #ffffff;  
@@ -148,7 +151,8 @@ p1 {
 
 
 p {
-	text-align:center;
+	position: center;
+	text-align: center;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
@@ -164,7 +168,8 @@ p {
 
 
 p2 {
-	text-align:center;
+	position: center;
+	text-align: center;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
