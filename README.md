@@ -1,2 +1,11 @@
-# one-page-site
-assignment - one page site - u3223833
+
+FINAL ASSIGNMENT
+"one page site"
+
+Student: Grace Scott-Graham
+id: u3223833
+
+DEVELOPER NOTES 
+
+key issues:
+features:
