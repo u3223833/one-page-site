@@ -135,7 +135,8 @@ h3 {
 
 
 p1 {
-	position: center;
+	
+	position:fixed; bottom: 0; width:100%;
 	text-align: center;
 	margin: 1px;
 	padding: 1px;
