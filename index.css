@@ -67,6 +67,8 @@ main {
 title {
 }
 
+//header
+
 h1 {
 	font-family: Creepster;
 	position: center;
@@ -91,7 +93,8 @@ h1 {
   20% { transform: skewX(0deg); }
   100% { transform: skewX(0deg); }  
 }
-	
+
+//place
 
 h2 {	
 	font-family:Creepster;
@@ -116,10 +119,12 @@ h2 {
   100% { transform: skewX(0deg); }  
 }
 
+//ghost name
+
 h3 {
 	text-align:center;
 	color:#cc0000; 
-	font-size:35px;
+	font-size:20px;
 	font-style: bold;
 	font-family:Nosifer;
 	font-weight:normal;
@@ -127,6 +132,8 @@ h3 {
 	padding: 1px;
 	line-height: 1;	
 }
+
+//intro text
 
 p1 {
 	text-align:center;
@@ -141,11 +148,31 @@ p1 {
 	line-height: 1;
 }
 
+//main text
+
 p {
 	text-align:justify;
 	padding-top: 2em;
 	color: #ffffff;  
 	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+	font-weight:normal;
+	padding: 10px;
+	overflow:visible;
+	line-height: 1;
+}
+
+//question 
+
+p2 {
+	text-align:center;
+	padding-top: 2em;
+	color: #ffffff;  
+	font-size:25px;
+	border-width:2px;
+ 	border-style:solid;
+ 	border-color:#cc0000;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
