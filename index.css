@@ -210,7 +210,8 @@ p2 {
 
 img {  
 position:center;
-max-width: 60%;  
+align:center;
+max-width: 100%;  
 height: auto;  
 }  
 
