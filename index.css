@@ -136,10 +136,11 @@ h3 {
 
 p1 {
 	
-	position:fixed; bottom: 0; width:100%;
+	position:center;
 	text-align: center;
 	margin: 1px;
-	padding: 1px;
+	padding-left:10px;
+  	padding-right:10px;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
