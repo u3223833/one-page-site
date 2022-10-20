@@ -208,6 +208,9 @@ p2 {
   }
 }
 
-
+img {  
+max-width: 60%;  
+height: auto;  
+}  
 
 
