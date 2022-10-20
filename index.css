@@ -126,7 +126,7 @@ h3 {
 	color:#cc0000; 
 	font-size:20px;
 	font-style: bold;
-	font-family:Nosifer;
+	font-family:'Eater', cursive;;
 	font-weight:normal;
 	margin: 1px;
 	padding: 1px;
@@ -170,9 +170,6 @@ p2 {
 	padding-top: 2em;
 	color: #ffffff;  
 	font-size:25px;
-	border-width:2px;
- 	border-style:solid;
- 	border-color:#cc0000;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
