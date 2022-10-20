@@ -73,12 +73,11 @@ h1 {
 	text-align: center;
 	padding: 1px;
 	margin: 0;
-	font-size: 100px;
+	font-size: 60px;
 	text-shadow: 3px 3px red;	
 	color: #ffffff;
 	font-weight: normal;
 	animation: .8s shake infinite alternate;
-}
 
 //shaking text effect
 
@@ -94,7 +93,7 @@ h1 {
 
 h2 {	
 	font-family:Creepster;
-	text-align:left;
+	text-align:center;
 	text-shadow: 3px 3px red;	
 	color:#ffffff; 
 	font-size:50px;
@@ -102,7 +101,6 @@ h2 {
 	padding: 1px;
 	margin: 1px;
 	animation: .8s shake infinite alternate;
-}
 
 //shaking text effect
 
@@ -143,7 +141,7 @@ p1 {
 p2 {
 	text-align:center,justify;
 	color:#ffffff; 
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
@@ -154,7 +152,7 @@ p2 {
 p3 {
 	text-align:center,justify;
 	color:#ffffff; 
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: Jolly Lodger;
 	font-weight:normal;
@@ -165,7 +163,7 @@ p3 {
 p4 {
 	text-align:center,justify;
 	color:#ffffff; 
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: Jolly Lodger;
 	font-weight:normal;
@@ -177,7 +175,7 @@ p5 {
 	text-align:center,justify;
 	color:#ffffff; 
 	float:left;
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: Jolly Lodger;
 	font-weight:normal;
@@ -189,7 +187,7 @@ p6 {
 	text-align:center,justify;
 	color:#ffffff; 
 	float:right;
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: Jolly Lodger;
 	font-weight:normal;
@@ -201,7 +199,7 @@ p7 {
 	text-align:center,justify;
 	color:#ffffff; 
 	float: left;
-	font-size:30px;
+	font-size:20px;
 	font-style: bold;
 	font-family: Jolly Lodger;
 	font-weight:normal;
@@ -216,46 +214,6 @@ p7 {
   padding: 5px;
 }
 
-
-/*img effect (black and white filter)*/
-img {
-filter: grayscale(100%);
-border-radius: 8px;
-margin: auto 7px;
-display:flex;  
-align-items:center
-}
-
-//image style and gallery
-
-//Resize images 
-.container img {
- width: 80%;
- height: auto;
-}
-
-//Three image containers 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-//Clear floats after image containers 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-//type writter effect
-
-wrapper {
-  height: 100vh;
-  /*This part is important for centering*/
-  display: grid;
-  place-items: center;
-}
 
 
 .typing-demo {
