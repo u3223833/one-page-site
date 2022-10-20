@@ -141,67 +141,13 @@ p1 {
 	line-height: 1;
 }
 
-p2 {
+p {
 	text-align:center;
-	color:rgb(255, 255, 255); 
+	padding-top: 2em;
+	color:rgb(255, 255, 255);  
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
-	font-weight:normal;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
-}
-p3 {
-	text-align:center;
-	color:rgb(255, 255, 255); 
-	font-size:20px;
-	font-style: bold;
-	font-family: Jolly Lodger;
-	font-weight:normal;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
-}
-p4 {
-	text-align:center;
-	color:rgb(255, 255, 255); 
-	font-size:20px;
-	font-style: bold;
-	font-family: Jolly Lodger;
-	font-weight:normal;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
-}
-p5 {
-	text-align:center;
-	color:rgb(255, 255, 255); 
-	font-size:20px;
-	font-style: bold;
-	font-family: Jolly Lodger;
-	font-weight:normal;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
-}
-p6 {
-	text-align:center;
-	color:rgb(255, 255, 255); 
-	font-size:20px;
-	font-style: bold;
-	font-family: Jolly Lodger;
-	font-weight:normal;
-	padding: 10px;
-	overflow:visible;
-	line-height: 1;
-}
-p7 {
-	text-align:center;
-	color:rgb(255, 255, 255); 
-	font-size:20px;
-	font-style: bold;
-	font-family: Jolly Lodger;
 	font-weight:normal;
 	padding: 10px;
 	overflow:visible;
