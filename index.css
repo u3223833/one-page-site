@@ -223,10 +223,11 @@ img {
 .topnav a {
   float: left;
   color: #ffffff;
+  font-family: 'Special Elite', cursive;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 /* Change the color of links on hover */
