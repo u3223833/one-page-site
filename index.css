@@ -217,12 +217,11 @@ img {
 .topnav {
   background-color: #000000;
   overflow: hidden;
-  top: 0;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: center;
   color: #ffffff;
   font-family: 'Special Elite', cursive;
   text-align: center;
