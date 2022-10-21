@@ -217,6 +217,7 @@ img {
 .topnav {
   background-color: #000000;
   overflow: hidden;
+  top: 0;
 }
 
 /* Style the links inside the navigation bar */
