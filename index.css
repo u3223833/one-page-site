@@ -138,7 +138,6 @@ p1 {
 	border: 2px #000000;
 	width: 600px;
 	height: 200px;
-	float: right;
 	margin: 10px;
 	color: #ffffff;  
 	font-size:20px;
@@ -221,7 +220,7 @@ img {
   background-color: #000000;
   overflow: hidden;
 vertical-align: top;
-	position:top;
+position:top;
 }
 
 /* Style the links inside the navigation bar */
