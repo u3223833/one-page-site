@@ -214,6 +214,7 @@ img {
   margin: auto;
   display: block;
 }  
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #000000;
@@ -223,7 +224,6 @@ vertical-align: top;
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: top;
   color: #ffffff;
   font-family: 'Special Elite', cursive;
   text-align: center;
