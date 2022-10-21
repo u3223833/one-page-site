@@ -3,10 +3,8 @@
 
 
 section {
-	height: 100vh;
+	height: 120vh;
 	display: flex;
-	justify-conent: center;
-	align-items: center;
 	scroll-snap-align: start;
 }
 
@@ -137,6 +135,8 @@ h3 {
 p1 {
 	
 	text-align: justify;
+	border: 2px #000000
+	float: right;
 	margin: 20px;
 	color: #ffffff;  
 	font-size:20px;
@@ -145,7 +145,6 @@ p1 {
 	font-weight:normal;
 	overflow:visible;
 	line-height:1;
-	float: right;
 }
 
 
