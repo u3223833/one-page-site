@@ -68,7 +68,7 @@ main {
 
 h1 {
 	font-family: Creepster;
-	position: center;
+	position: top;
 	text-align: center;
 	padding: 0px;
 	margin: 0px;
@@ -136,7 +136,7 @@ h3 {
 
 p1 {
 	
-	text-align: center,justify;
+	text-align: justify;
 	margin: 20px;
 	color: #ffffff;  
 	font-size:20px;
@@ -145,6 +145,7 @@ p1 {
 	font-weight:normal;
 	overflow:visible;
 	line-height:1;
+	float: right;
 }
 
 
