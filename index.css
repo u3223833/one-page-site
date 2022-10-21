@@ -70,9 +70,9 @@ h1 {
 	font-family: Creepster;
 	position: center;
 	text-align: center;
-	padding: 1px;
-	margin: 0;
-	font-size: 90px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 80px;
 	text-shadow: 3px 3px red;	
 	color: #ffffff;
 	font-weight: normal;
