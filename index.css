@@ -68,9 +68,9 @@ h1 {
 	font-family: Creepster;
 	position: center;
 	text-align: center;
-	padding: 0px;
-	margin: 0px;
-	font-size: 60px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 80px;
 	text-shadow: 3px 3px red;	
 	color: #ffffff;
 	font-weight: normal;
@@ -135,6 +135,7 @@ h3 {
 p1 {
 	
 	text-align: justify;
+	position: center;
 	margin: 10px;
 	color: #ffffff;  
 	font-size:20px;
@@ -216,8 +217,8 @@ img {
 .topnav {
   background-color: #000000;
   overflow: hidden;
-vertical-align: top;
-position:top;
+vertical-align: bottom;
+position:bottom;
 }
 
 /* Style the links inside the navigation bar */
