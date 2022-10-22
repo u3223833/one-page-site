@@ -65,8 +65,8 @@ main {
 
 
 h1 {
-  font-family: Creepster;
-	position: center;
+        position: center;
+        font-family: Creepster;
 	text-align: center;
 	padding: 10px;
 	margin: 10px;
@@ -135,8 +135,6 @@ h3 {
 p1 {
 	
 	text-align: center;
-	border:1px;
-	width: 200px;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
@@ -167,7 +165,6 @@ p {
 
 p2 {
 	text-align: center;
-	position:center;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
