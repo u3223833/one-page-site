@@ -1,9 +1,3 @@
-//click me 
-$(document).ready(function(){
-  $("#hover-area").click(function(){
-    $("#reveal").slideToggle(300);
-  });
-});
 
 //typewritter effect
 'use strict';
