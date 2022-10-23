@@ -185,4 +185,12 @@ img {
 }
 	
 
-
+.typo {
+	position: center;
+	text-align: center;
+	color: #ffffff;  
+	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+}
+	
