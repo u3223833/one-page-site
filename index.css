@@ -197,8 +197,9 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	float: right;
+	float: left;
 	width:60%;
+	height:auto;
 	
 }
 
@@ -208,7 +209,7 @@ p2 {
   border: 2px solid red;
  margin: 0%;
  padding: 0%;
-float:left;
+float:right;
 
 
 
