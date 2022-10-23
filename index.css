@@ -212,12 +212,12 @@ p2 {
 
 
 .container{ 
-	width:50%; 
-	margin:0 auto; 
+	width:60%; 
+	margin: auto; 
 	text-align:center
 }
 .container span{ 
-	width:30%; 
+	width:50%; 
 	margin:0 1%;  
 }
 
