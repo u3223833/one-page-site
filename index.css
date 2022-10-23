@@ -212,10 +212,13 @@ p2 {
 
 
 .container{ 
-	width:60%; 
-	margin: auto; 
+	
 	text-align:right;
-	overflow:hidden;
+	overflow:auto;
+	float: right;
+	width:98%;
+	margin: 1%;
+	border:1px solid black;
 }
 .container span{ 
 	margin:0 1%; 
