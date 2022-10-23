@@ -123,7 +123,7 @@ h3 {
 p1 {
 	
 	text-align: center;
-	justify-content: center;
+	position: center;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
@@ -131,6 +131,9 @@ p1 {
 	font-weight:normal;
 	overflow:visible;
 	line-height:2;
+	border: 2px solid black;
+	margin: 5px;
+	padding: 5px;
 	
 }
 
