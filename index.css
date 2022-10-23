@@ -214,7 +214,7 @@ p2 {
 .container{ 
 	width:60%; 
 	margin: auto; 
-	text-align:center
+	text-align:center;
 }
 .container span{ 
 	width:50%; 
@@ -223,7 +223,8 @@ p2 {
 
 .text {
   font-size: 10px;
-  text-align: bottom;
+  text-align: center;
+padding-left:3px;
 }
 
 
