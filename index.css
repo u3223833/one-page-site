@@ -149,6 +149,9 @@ p {
 	font-weight:normal;
 	overflow:visible;
 	line-height: 1;
+	border: 2px solid black;
+	margin: 5px;
+	padding: 5px;
 	
 }
 
