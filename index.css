@@ -147,9 +147,8 @@ p1 {
 	overflow:visible;
 	line-height:1;
 	border: 2px solid black;
-  	border-radius: 10px;
-	 margin: 5%;
-  	padding: 5%;
+	 margin: 10%;
+  	padding: 10%;
 }
 
 
@@ -228,9 +227,8 @@ p2 {
   font-size: 10px;
   text-align: relative;
   border: 2px solid black;
-  border-radius: 2px;
- margin: 1%;
-  padding: 1%;
+ margin: 10%;
+  padding: 10%;
 float:right;
 
 
