@@ -217,8 +217,9 @@ p2 {
 	text-align:center;
 }
 .container span{ 
-	width:50%; 
-	margin:0 1%;  
+	margin:0 1%; 
+	width:100px;
+    height:100px;
 }
 
 .text {
