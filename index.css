@@ -214,14 +214,13 @@ p2 {
 .container{ 
 	width:60%; 
 	margin: auto; 
-	text-align:center;
-	position: relative;
+	text-align:right;
 	overflow:hidden;
 }
 .container span{ 
 	margin:0 1%; 
-	width:50px;
-        height:50px;
+	width:60%;
+        height:60%;
 }
 
 .text {
