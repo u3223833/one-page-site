@@ -212,12 +212,12 @@ p2 {
 
 
 .container{ 
-	width:60%; 
+	width:50%; 
 	margin:0 auto; 
 	text-align:center
 }
 .container span{ 
-	width:50%; 
+	width:30%; 
 	margin:0 1%;  
 }
 
@@ -225,3 +225,7 @@ p2 {
   font-size: 10px;
   text-align: bottom;
 }
+
+
+	
+	
