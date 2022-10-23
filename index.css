@@ -131,9 +131,7 @@ p1 {
 	font-weight:normal;
 	overflow:visible;
 	line-height:1;
-	border: 5px solid black;
-	margin: 10px;
-  	padding: 10px;
+	
 }
 
 
@@ -222,4 +220,8 @@ img {
     object-fit: cover;
 }
 	
-	
+	.intro {
+	border: 5px solid black;
+	margin: 10px;
+  	padding: 10px;
+}
