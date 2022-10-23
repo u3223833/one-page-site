@@ -211,15 +211,17 @@ p2 {
 }
 
 
-
-img {
- width:50%;
- margin-left: auto ;
- margin-right:auto ;
+.container{ 
+	width:50%; 
+	margin:0 auto; 
+	text-align:center
 }
-
+.container span{ 
+	width:30%; 
+	margin:0 1%;  
+}
 
 .text {
   font-size: 10px;
-  padding-left: 30px;
+  text-align: bottom;
 }
