@@ -197,9 +197,8 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	width:50%;
+	width:100%;
 	justify-content: center;
-	display: inline-block;  
 	float: center;
 	
 	
