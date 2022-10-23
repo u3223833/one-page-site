@@ -215,17 +215,18 @@ p2 {
 	width:60%; 
 	margin: auto; 
 	text-align:center;
+	position: relative;
 }
 .container span{ 
 	margin:0 1%; 
 	width:100px;
-    height:100px;
+        height:100px;
 }
 
 .text {
   font-size: 10px;
-  text-align: center;
-padding-left:3px;
+  text-align: relative;
+  padding-left:3px;
 }
 
 
