@@ -185,12 +185,18 @@ img {
 }
 	
 
-.typo {
-	position: center;
-	text-align: center;
-	color: #ffffff;  
-	font-size:20px;
-	font-style: bold;
-	font-family: 'Special Elite', cursive;
+#elementEl::after {
+  content: '|';
+  margin-left: 5px;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 	
