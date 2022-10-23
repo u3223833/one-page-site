@@ -205,14 +205,15 @@ p2 {
 }
 
 .text {
-  font-size: 10px;
-  text-align: relative;
- width:20%;
-	border: 1px solid black;
-	margin:2px;
-	padding:2px;
+font-size: 10px;
+text-align: justify;
+justify-content: right;
+width:20%;
+border: 1px solid black;
+margin:2px;
+padding:2px;
 float:right;
-	display: inline-block;  
+display: inline-block;  
 
 
 
