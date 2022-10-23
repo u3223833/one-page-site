@@ -216,6 +216,7 @@ p2 {
 	margin: auto; 
 	text-align:center;
 	position: relative;
+	overflow:hidden;
 }
 .container span{ 
 	margin:0 1%; 
