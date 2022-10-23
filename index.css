@@ -197,7 +197,7 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	width:30%;
+	width:50%;
 	justify-content: center;
 	display: inline-block;  
 	
@@ -207,7 +207,7 @@ p2 {
 .text {
   font-size: 10px;
   text-align: relative;
- width:30%;
+ width:20%;
 	border: 1px solid black;
 	margin:2px;
 	padding:2px;
@@ -219,8 +219,7 @@ float:right;
 }
 
 img {
-    width: 50%; 
-    height: 50%; 
+    width: 100%; 
     object-fit: cover;
 }
 	
