@@ -1,13 +1,13 @@
-//flashlight mouse
+//typewritter effect
 
-function update(e){
-  var x = e.clientX || e.touches[0].clientX
-  var y = e.clientY || e.touches[0].clientY
+var i = 0;
+var txt = 'Lorem ipsum dummy text blabla.';
+var speed = 50;
 
-  document.style.setProperty('--cursorX', 'calc(' + x + 'px + 9vmax)');
-  document.style.setProperty('--cursorY', 'calc(' + x + 'px + 6vmax)');
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
 }
-
-document.addEventListener('mousemove',update)
-document.addEventListener('touchmove',update)
-
