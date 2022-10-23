@@ -214,7 +214,7 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	float: left;
+	float: center;
 	width:200px;
 	margin: 1%;
 	border:1px solid black;
@@ -223,10 +223,10 @@ p2 {
 .text {
   font-size: 10px;
   text-align: relative;
-  border: 2px solid red;
-  border-radius: 12px;
- margin: 10%;
-  padding: 10%;
+  border: 2px solid black;
+  border-radius: 2px;
+ margin: 1%;
+  padding: 1%;
 float:right;
 
 
