@@ -188,8 +188,8 @@ img {
 /* Flashlight Overlay */
 :root {
 	cursor:none;
-  --cursorX: 50vw;
-  --cursorY: 50vh;
+  --cursorX: 500vw;
+  --cursorY: 500vh;
 }
 :root:before {
   content: '';
