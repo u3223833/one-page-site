@@ -197,7 +197,6 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	float: left;
 	width:50%;
 	border: 1px solid black;
 	margin:2px;
