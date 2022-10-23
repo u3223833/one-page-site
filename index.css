@@ -213,17 +213,11 @@ p2 {
 
 .container{ 
 	
-	text-align:right;
 	overflow:auto;
 	float: right;
-	width:98%;
+	width:100%;
 	margin: 1%;
 	border:1px solid black;
-}
-.container span{ 
-	margin:0 1%; 
-	width:60%;
-        height:60%;
 }
 
 .text {
@@ -232,6 +226,10 @@ p2 {
   padding-left:3px;
 }
 
-
+img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain;
+}
 	
 	
