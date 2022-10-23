@@ -202,7 +202,8 @@ p2 {
 	border: 1px solid black;
 	margin:2px;
 	padding:2px;
-	justify-content: right;
+	justify-content: center;
+	display: inline-block;  
 	
 	
 }
@@ -215,6 +216,7 @@ p2 {
 	margin:2px;
 	padding:2px;
 float:right;
+	display: inline-block;  
 
 
 
