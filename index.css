@@ -205,7 +205,7 @@ p2 {
 .text {
   font-size: 10px;
   text-align: relative;
-  border: 2px solid black;
+  border: 2px solid red;
  margin: 10%;
  padding: 10%;
 float:left;
