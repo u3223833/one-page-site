@@ -197,10 +197,7 @@ p2 {
 .container{ 
 	
 	overflow:auto;
-	width:50%;
-	border: 1px solid black;
-	margin:2px;
-	padding:2px;
+	width:30%;
 	justify-content: center;
 	display: inline-block;  
 	
@@ -210,7 +207,7 @@ p2 {
 .text {
   font-size: 10px;
   text-align: relative;
- width:50%;
+ width:30%;
 	border: 1px solid black;
 	margin:2px;
 	padding:2px;
