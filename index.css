@@ -187,6 +187,7 @@ img {
 
 /* Flashlight Overlay */
 :root {
+	cursor:none;
   --cursorX: 50vw;
   --cursorY: 50vh;
 }
