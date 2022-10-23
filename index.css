@@ -210,19 +210,14 @@ p2 {
   color: white;
 }
 
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 
 img {
-  max-width: 100%
+ width:50%;
+ margin-left: auto ;
+ margin-right:auto ;
 }
 
-.image {
-  flex-basis: auto;
-}
 
 .text {
   font-size: 10px;
