@@ -188,6 +188,15 @@ img {
     object-fit: cover;
 }
 	
-
+.intro {
+	text-align: center;
+	color: #ffffff;  
+	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+	font-weight:normal;
+	overflow:visible;
+	line-height:2;	
+	
 
 	
