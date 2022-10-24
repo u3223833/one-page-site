@@ -232,3 +232,10 @@ span {
     opacity: 1;
   }
 }
+.storyone {
+	overflow:hidden;
+	width: 50%;
+	justify-conent: center;
+	 text-align: justify;
+}
+	
