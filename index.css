@@ -183,6 +183,11 @@ img {
 	 text-align: justify;
 	float: right;
 }
+//strange occurances
+.text {
+	width: 30%;
+	justify-conent: center;
+	text-align: justify;
 
 //question
 #question {
