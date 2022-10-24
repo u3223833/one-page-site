@@ -72,6 +72,16 @@ h1 {
   100% { transform: skewX(0deg); }  
 }
 
+.intro {
+	text-align: center;
+	color: #ffffff;  
+	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+	font-weight:normal;
+	overflow:visible;
+	line-height:2;	
+
 h2 {	
 	font-family:Creepster;
 	position: center;
@@ -108,35 +118,21 @@ h3 {
 }
 
 p1 {
-	text-align: center;
-	position: center;
+	text-align: justify;
+	float: left;
+	width: 50%;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
 	overflow:visible;
-	line-height:2;	
-}
-
-p {
-	position: center;
-	text-align: center;
-	color: #ffffff;  
-	font-size:20px;
-	font-style: bold;
-	font-family: 'Special Elite', cursive;
-	font-weight:normal;
-	overflow:visible;
-	line-height: 1;
-	border: 2px solid black;
-	margin: 10px;
-	padding: 10px;	
+	line-height:1;	
 }
 
 p2 {
-	text-align: center;
-	position: center;
+	text-align: justify;
+	width:50%;
 	color: #ffffff;  
 	font-size:20px;
 	font-style: bold;
@@ -145,6 +141,20 @@ p2 {
 	overflow:visible;
 	line-height: 1;
 }
+
+p {
+	text-align: center;
+	color: #ffffff;  
+	font-size:20px;
+	font-style: bold;
+	font-family: 'Special Elite', cursive;
+	font-weight:normal;
+	overflow:visible;
+	line-height: 1;
+	
+}
+
+
  
 /* Add a black background color to the top navigation */
 .topnav {
@@ -195,13 +205,5 @@ img {
     object-fit: contain;
 }
 	
-.intro {
-	text-align: center;
-	color: #ffffff;  
-	font-size:20px;
-	font-style: bold;
-	font-family: 'Special Elite', cursive;
-	font-weight:normal;
-	overflow:visible;
-	line-height:2;	
+
 	
