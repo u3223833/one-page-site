@@ -200,3 +200,16 @@ p1 {
 @keyframes blink {
   50% { border-color: transparent}
 }
+
+//questions text effect
+ #str {
+   width: 800px;
+   padding: 20px;
+   height: auto;
+   font-family: sans-serif;
+   font-size: 40px;
+   margin: 200px auto;
+   color: #fff;
+   font-weight: bold;
+   background: #000
+}
