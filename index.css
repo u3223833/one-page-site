@@ -190,14 +190,7 @@ p1 {
   margin: 0 auto; */
   padding-right:00px;
   letter-spacing: .15em;
-  animation: blink .5s step-end           infinite alternate;;
 }
-
-//The typewriter cursor effect 
-@keyframes blink {
-  50% { border-color: transparent}
-}
-*/
 
 
  .text {
