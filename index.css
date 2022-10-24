@@ -12,8 +12,8 @@ height: 100vh;
 }
 
 .one {
-	background image: url ("https://i.pinimg.com/originals/07/5e/b7/075eb74eca4cb75163d83e77b743f998.gif");
-	background-repeat: no-repeat;
+	background: rbg(0,0,0)
+	
 }
 .two {
 	background: rbg(0,0,0)
@@ -45,14 +45,14 @@ height: 100vh;
 body {
 	background image: url ("https://i.pinimg.com/originals/ff/9d/14/ff9d14f5ff1b443670f456527f01ddae.gif");
 	background-repeat: no-repeat;
-	background: #000000;	
+		
 	
 }
 
 main {
 	background image: url ("https://i.pinimg.com/originals/ff/9d/14/ff9d14f5ff1b443670f456527f01ddae.gif");
 	background-repeat: no-repeat;
-	background: #000000;	
+		
 }
 
 h1 {
