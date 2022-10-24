@@ -118,15 +118,20 @@ font-size:15px;
 
 
  
-/* Add a black background color to the top navigation */
+/* style the nav bar */
 .topnav {
   background-color: #cc0000;
   overflow: hidden;
+position: fixed;
+  top: 0;
+	margin:0;
+	padding:0;
+	float: center;
 
 
 }
 
-/* Style the links inside the navigation bar */
+/* Style the links inside the nav bar */
 .topnav a {
 
   color: #ffffff;
@@ -135,6 +140,7 @@ font-size:15px;
   font-size: 20px;
 	margin: 10px;
 	padding:15px 15px;
+	text-align: center;
 
 }
 
@@ -147,7 +153,7 @@ font-size:15px;
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #000000;
   color: white;
 }
 
