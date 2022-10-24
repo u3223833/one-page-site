@@ -113,13 +113,14 @@ p {
 
 p1 {
   	color: #ffffff;
+	text-align: center;
   	font-family: monospace;
   	border-right: .15em solid #fff; 
   	white-space: nowrap; 
   	margin: 0 auto; 
   	padding-right:00px;
   	letter-spacing: .15em;
-  	font-size: 15px
+  	font-size: 10px
 }
 
 
