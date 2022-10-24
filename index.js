@@ -15,3 +15,14 @@ document.addEventListener("touchmove", getMousePosition);
 
 document.addEventListener('mousemove', update)
 document.addEventListener('touchmove', update)
+
+/*mouse click*/
+
+var evt = new MouseEvent("click", {
+        view: window,
+        bubbles: true,
+        cancelable: true,
+        clientX: 20,
+      }),
+      ele = document.getElementById("btn");
+    ele.dispatchEvent(evt);
