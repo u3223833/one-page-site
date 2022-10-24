@@ -181,6 +181,7 @@ img {
   text-align:center;
 }
 
+/*
 p1 {
   color: palevioletred;
   font-family: monospace;
@@ -192,13 +193,11 @@ p1 {
   animation: blink .5s step-end           infinite alternate;;
 }
 
-
-
-/* The typewriter cursor effect */
+//The typewriter cursor effect 
 @keyframes blink {
   50% { border-color: transparent}
 }
-
+*/
 
 
  .text {
@@ -209,3 +208,26 @@ p1 {
 	 text-align: justify;
 }
 	 
+:root {
+  --animation-delay: 75ms;
+}
+
+
+span {
+  opacity: 0;
+  animation-name: typewriter;
+  animation-fill-mode: forwards;
+  animation-duration: 0s;
+  animation-delay: calc(var(--animation-order) * var(--animation-delay));
+  
+}
+
+@keyframes typewriter {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
