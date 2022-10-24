@@ -131,12 +131,12 @@ p {
 .topnav {
   background-color: #cc0000;
   overflow: hidden;
-	position: center;
+
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-	position: center;
+
   color: #ffffff;
   font-family: 'Special Elite', cursive;
   text-align: center;
@@ -161,7 +161,7 @@ p {
 
 
 .container{ 
-	position:center;
+	
 	overflow:auto;
 	width:50%;
 	justify-content: center;
