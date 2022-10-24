@@ -79,8 +79,13 @@ h1 {
 	font-family: 'Special Elite', cursive;
 	font-weight:normal;
 	overflow:visible;
-	line-height:2;	
+	line-height:2;
+	-webkit-animation: typing 8s steps(14, end),
+	           blink-caret .5s step-end infinite alternate;
 }
+
+@-webkit-keyframes typing { from { width: 0; } }
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }
 
 h2 {	
 	color:#ffffff;
