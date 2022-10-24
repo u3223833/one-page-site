@@ -122,7 +122,7 @@ font-size:15px;
  
 /* style the nav bar */
 .topnav {
-  background-color: #cc0000;
+  background-color: #000000;
   overflow: hidden;
 position: fixed;
   top: 0;
@@ -149,7 +149,7 @@ position: fixed;
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #000000;
-
+ color: red;
 }
 
 /* Add a color to the active/current link */
@@ -208,7 +208,7 @@ p1 {
    font-family: sans-serif;
    font-size: 40px;
    margin: 200px auto;
-   color: #fff;
+   color: #ffffff;
    font-weight: bold;
-   background: #000
+   background: #000000;
 }
