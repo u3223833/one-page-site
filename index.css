@@ -181,13 +181,13 @@ img {
   text-align:center;
 }
 
-/*
+
 p1 {
   color: palevioletred;
   font-family: monospace;
   border-right: .15em solid #fff; 
   white-space: nowrap; 
-  margin: 0 auto; */
+  margin: 0 auto; 
   padding-right:00px;
   letter-spacing: .15em;
 }
