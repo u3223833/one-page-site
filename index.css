@@ -238,7 +238,12 @@ p1 {
   }
 }
 	
-
+main {
+	font-size: 10px;
+	margin: auto;
+	width: 51em;
+	height: 52.5em;
+}
 img, canvas {
 	display: block;
 	top: 50%;
