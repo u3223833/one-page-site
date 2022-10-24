@@ -54,7 +54,7 @@ main {
 }
 
 h1 {
-        position: center;
+        text align: center;
         font-family: Creepster;
 	font-size: 100px;
 	text-shadow: 3px 3px red;	
@@ -85,7 +85,6 @@ h1 {
 h2 {	
 	color:#ffffff;
 	font-family:Creepster;
-	position: center;
 	text-align: center;
 	text-shadow: 3px 3px red;	 
 	font-size:70px;
@@ -105,7 +104,6 @@ h2 {
 }
 
 h3 {
-	position: center;
 	text-align: center;
 	color:#cc0000; 
 	font-size:40px;
@@ -175,10 +173,10 @@ p {
 img {
 	display: flex;
  	flex-wrap: wrap;
-            margin: 0 50px;
-            padding: 30px;
-    width: 100%; 
-    object-fit: contain;
+        margin: 0 50px;
+        padding: 30px;
+        width: 100%; 
+        object-fit: contain;
 }
 	
 
