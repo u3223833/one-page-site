@@ -181,14 +181,18 @@ position: center;
 .container{ 
 	text align:center;
 	overflow:auto;
-	width:100%;
+	width:50%;
 	justify-content: center;
 	float: center;	
 }
 
 img {
+	display: flex;
+ 	flex-wrap: wrap;
+            margin: 0 50px;
+            padding: 30px;
     width: 100%; 
-    object-fit: cover;
+    object-fit: contain;
 }
 	
 .intro {
