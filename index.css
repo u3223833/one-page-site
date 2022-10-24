@@ -185,9 +185,12 @@ img {
 }
 //strange occurances
 .text {
-	width: 30%;
-	justify-conent: center;
-	text-align: justify;
+ 	overflow:hidden;
+ 	width: 20%;
+ 	justify-conent: center;
+ 	float: right;
+ 	 text-align: justify;
+}
 
 //question
 #question {
