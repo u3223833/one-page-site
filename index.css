@@ -205,23 +205,3 @@ img {
 	overflow:visible;
 	line-height:2;	
 	
-#main-text{
-	}
-	
-#main-text-left{
-	float: left;
-	width: 50%;
-	border: 2px solid black;
-	text align: justify;
-	margin: 5px;
-	padding: 5px;
-	}
-#main-text-right{
-	border: 2px solid black;
-	width:50%;
-	float:right;
-	text align: justify;
-	margin: 5px;
-	padding: 5px;
-	
-	
