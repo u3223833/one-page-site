@@ -45,14 +45,14 @@ height: 100vh;
 body {
 	background-image: url ("https://i.pinimg.com/originals/07/5e/b7/075eb74eca4cb75163d83e77b743f998.gif");
 	background-repeat: no-repeat;
-		
+	background: rbg(0,0,0)
 	
 }
 
 main {
 	background-image: url ("https://i.pinimg.com/originals/07/5e/b7/075eb74eca4cb75163d83e77b743f998.gif");
 	background-repeat: no-repeat;
-		
+	background: rbg(0,0,0)	
 }
 
 h1 {
