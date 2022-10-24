@@ -151,8 +151,8 @@ p {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #cc0000;
-  color: black;
+  background-color: #000000;
+  color: red;
 
 }
 
@@ -167,8 +167,8 @@ p {
 	
 	overflow:auto;
 	width:50%;
-	justify-content: center;
-	float: center;	
+	justify-conent: center;
+	
 }
 
 img {
