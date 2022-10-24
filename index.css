@@ -43,8 +43,7 @@ height: 100vh;
 
 body {
 	
-	background-image: url ("https://img.freepik.com/free-vector/happy-halloween-background-theme_52683-44522.jpg?w=2000&t=st=1666587784~exp=1666588384~hmac=3e809b43d1cbe05b2c3e020c6e296282206f8c5957381c17e66d7e9c039142bf");
-	background-repeat: no-repeat; 
+	background-color:#000000;
 }
 
 
@@ -107,12 +106,8 @@ h3 {
 p {
 	  color: palevioletred;
   font-family: monospace;
-  white-space: nowrap; 
-  margin: 0 auto; */
-  padding-right:00px;
-  letter-spacing: .15em;
 text-align: center;
-font-size:10px;
+font-size:20px;
 	
 	
 	
