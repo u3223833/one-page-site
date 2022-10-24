@@ -214,8 +214,8 @@ img {
 }
 
 #flashlight {
-  --Xpos: 50vw;
-  --Ypos: 50vh;
+  --Xpos: 100vw;
+  --Ypos: 100vh;
 }
 #flashlight:before {
   content: "";
@@ -229,7 +229,7 @@ img {
     rgba(0, 0, 0, 1)
   );
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 300px) {
   body {
     font-size: 24px;
   }
