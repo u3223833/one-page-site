@@ -1,4 +1,4 @@
-//scroll effect - sections
+
 section {
 	height: 100vh;
 	display: flex;
@@ -47,7 +47,7 @@ body {
 	
 }
 
-//title
+
 h1 {
         color: #ffffff;
 	text-align: center;
@@ -57,7 +57,7 @@ h1 {
 	font-weight: normal;
 	animation: .8s shake infinite alternate;
 }
-//shake effect
+
 @keyframes shake {
   0% { transform: skewX(-15deg); }
   5% { transform: skewX(15deg); }
@@ -67,7 +67,7 @@ h1 {
   100% { transform: skewX(0deg); }  
 }
 
-//place
+
 h2 {	
 	color:#ffffff;
 	font-family:Creepster;
@@ -79,7 +79,7 @@ h2 {
 	margin: 1px;
 	animation: .8s shake infinite alternate;
 }
-//shake effect
+
 @keyframes shake {
   0% { transform: skewX(-15deg); }
   5% { transform: skewX(15deg); }
@@ -89,7 +89,7 @@ h2 {
   100% { transform: skewX(0deg); }  
 }
 
-//person
+
 h3 {
 	text-align: center;
 	text-shadow: 2px 2px #ffffff;
@@ -103,7 +103,7 @@ h3 {
 	line-height: 1;	
 }
 
-//all content
+
 p {
  	color: palevioletred;
  	font-family: monospace;
@@ -111,7 +111,7 @@ p {
 	font-size:15px;
 }
 
-//question and title page text
+
 p1 {
   	color: #ffffff;
   	font-family: monospace;
@@ -124,7 +124,7 @@ p1 {
 }
 
 
-//the nav bar 
+
 .topnav {
  	background-color: #000000;
   	overflow: hidden;
@@ -135,7 +135,7 @@ p1 {
 	float: center;
 }
 
-//links inside the nav bar 
+
 .topnav a {
   	color: #ffffff;
   	font-family: monospace;
@@ -146,18 +146,18 @@ p1 {
 	text-align: center;
 }
 
-//color of links on hover 
+
 .topnav a:hover {
   	background-color: #000000;
  	color: red;
 }
 
-//color for the current link
+
 .topnav a.active {
   	background-color: #000000;
 }
 
-//image container
+
 .img-box{ 
 	
 	overflow:hidden;
@@ -165,7 +165,7 @@ p1 {
 	justify-conent: center;
 }
 
-//image styling
+
 img {
 	display: flex;
  	flex-wrap: wrap;
@@ -175,7 +175,7 @@ img {
         object-fit: contain;
 }
 
-//all content
+
 .info {
 	overflow:hidden;
 	width: 50%;
@@ -183,7 +183,7 @@ img {
 	 text-align: justify;
 	float: right;
 }
-//strange occurances
+
 .text {
  	overflow:hidden;
  	width: 20%;
@@ -192,7 +192,7 @@ img {
  	 text-align: justify;
 }
 
-//question
+
 #question {
   	bottom: 0;
   	background: linear-gradient(90deg, #000, #fff, #000);
@@ -203,7 +203,7 @@ img {
   	-webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 
-//appearing effect
+
 @keyframes animate {
   0% {
     background-position: -500%;
