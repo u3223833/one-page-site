@@ -115,7 +115,7 @@ h3 {
 
 p {
 	color: #ffffff;  
-	text-align: center,justify;
+	text-align: center;
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
@@ -136,6 +136,7 @@ p {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+	position: center;
   color: #ffffff;
   font-family: 'Special Elite', cursive;
   text-align: center;
@@ -160,7 +161,7 @@ p {
 
 
 .container{ 
-	text align:center;
+	position:center;
 	overflow:auto;
 	width:50%;
 	justify-content: center;
@@ -172,7 +173,7 @@ img {
  	flex-wrap: wrap;
         margin: 0 50px;
         padding: 30px;
-        width: 100%; 
+        width: 50%; 
         object-fit: contain;
 }
 	
