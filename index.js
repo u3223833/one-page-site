@@ -1,6 +1,6 @@
 /*flashlight effect*/
 
-let flashlight = document.getElementById("flashlight");
+/*let flashlight = document.getElementById("flashlight");
 function update(e) {
 let mouseX = 0;
 let mouseY = 0;
@@ -14,7 +14,7 @@ document.addEventListener("mousemove", getMousePosition);
 document.addEventListener("touchmove", getMousePosition);
 
 document.addEventListener('mousemove', update)
-document.addEventListener('touchmove', update)
+document.addEventListener('touchmove', update)*/
 
 /*mouse click*/
 function simulate(element, eventName)
