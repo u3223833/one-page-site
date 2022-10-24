@@ -5,15 +5,10 @@ Student: Grace Scott-Graham
 id: u3223833
 
 DEVELOPER NOTES 
-the technical things I learned:
-Throughout this assignment i had many challenges, fails and sucesses. I sucsesfully applied multiple text effects and a scroller effect which was extreamly difficult as it moved around alot of things and it wouldnt work the way i wanted it to. 
 
-the amount of time you spent on the assignment:
-i spend way more time on this project than i should have, i struggled quite a bit trying to get the right layout and animations that the website needed. Another trouble of mine was trying to apply javascript throughout my code. I tried several different approaches until i found one that i thought i could acheive (flashlight cursor). i thought this effect would compleate my webpage, matching the theme 100%, yet also had troubles - trying every single solution i could think of. the problem was that the flash wouldnt follow the mouse, it would make every thing dissapeer, or it made everything white. you can probobly tell me what the issue is right now reading this but i tried. 
+I found it difficult to find the layout and animations the website required. I also ran into issues when I tried to use JavaScript throughout my code. I experimented with several different strategies until I came across one that I felt I could succeed with (flashlight cursor). This effect was supposed to complete my webpage and totally match the theme, but it didn't work out. The issue in this case was that the flash would not follow the mouse; instead, it would either cause everything to vanish or remain in a fixed position. I made numerous attempts to achieve this effect, but none of them were successful. I left the code in there in the hopes of getting feedback on it—what was needed and what I should add. 
 
+I've had some successes in between some of my failures. I added a mouseEvent button property and a cool fading text effect to a few page elements. There is still some, even though it is not much. I was able to make a navigation bar that allows users to press on specific areas of the page. I wish I had focused more on what I should be including and how I could accomplish those things rather than spending so much time researching information on the subject and worrying about how it would look. I noticed that I was hurrying through the coding portion because I was more concerned about the presentation and content. 
 
-the problems you encountered (e.g., cooperation among the group members, designing test cases, debugging, code integration)
-what mistakes the course staff made in running the assignment, if any
-
-key issues:
-features:
+As I wasn't able to include as many interactive elements/effects, I added gifs to the webpage to give it some life. 
+Overall, I'm ok with some aspects of my one-page website. I only regret not dedicating more time to coding.
