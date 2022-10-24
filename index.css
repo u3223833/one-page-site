@@ -117,32 +117,10 @@ h3 {
 	line-height: 1;	
 }
 
-p1 {
-	color: #ffffff;  
-	text-align: justify;
-	float: left;
-	font-size:20px;
-	font-style: bold;
-	font-family: 'Special Elite', cursive;
-	font-weight:normal;
-	overflow:visible;
-	line-height:1;	
-}
-
-p2 {
-	color: #ffffff;  
-	text-align: justify; 
-	font-size:20px;
-	font-style: bold;
-	font-family: 'Special Elite', cursive;
-	font-weight:normal;
-	overflow:visible;
-	line-height: 1;
-}
 
 p {
 	color: #ffffff;  
-	text-align: center;
+	text-align: center,justify;
 	font-size:20px;
 	font-style: bold;
 	font-family: 'Special Elite', cursive;
