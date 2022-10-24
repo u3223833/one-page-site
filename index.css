@@ -234,4 +234,6 @@ p1 {
   }
 }
 	
-
+.hidden {
+  display: none;
+}
