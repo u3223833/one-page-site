@@ -42,16 +42,20 @@ height: 100vh;
 }
 
 body {
-	background-color:#000000;	
+	background-color:#000000;
+	background-image: url ("https://64.media.tumblr.com/938a0cea364fbc40abfa586312d2fb62/tumblr_nbeblw1lsY1qbzzgco1_1280.gif") alt="this will display an animated GIF";
+	background-repeat: no-repeat;
 }
 
 main {
+	background-image: url ("https://64.media.tumblr.com/938a0cea364fbc40abfa586312d2fb62/tumblr_nbeblw1lsY1qbzzgco1_1280.gif") alt="this will display an animated GIF";
+	background-repeat: no-repeat;
 	background-color:#000000;	
 }
 
 h1 {
         color: #ffffff;
-	text align: center;
+	text-align: center;
         font-family: Creepster;
 	font-size: 100px;
 	text-shadow: 3px 3px red;	
