@@ -66,14 +66,13 @@ var eventMatchers = {
     'HTMLEvents': /^(?:load|unload|abort|error|select|change|submit|reset|focus|blur|resize|scroll)$/,
     'MouseEvents': /^(?:click|dblclick|mouse(?:down|up|over|move|out))$/
 }
-var defaultOptions = {
-    pointerX: 0,
-    pointerY: 0,
-    button: 0,
-    ctrlKey: false,
-    altKey: false,
-    shiftKey: false,
-    metaKey: false,
-    bubbles: true,
-    cancelable: true
+
+
+let elements = document.querySelectorAll('about','the haunting','scare factor');
+ 
+
+for (let i = 0; i < elements.length; i++) {
+ 
+    
+    elements[i].style.color = 'white';
 }
