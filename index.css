@@ -215,8 +215,9 @@ p1 {
 
  .text {
 	overflow:hidden;
-	width:40%;
+	width:20%;
 	justify-conent: center;
-	 float: right;
+	float: right;
+	 text-align: justify;
 }
 	 
